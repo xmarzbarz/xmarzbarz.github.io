@@ -15,7 +15,10 @@ h1 {
 }
 
 .assign img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 200px;
-    height: 150px;
+    height: 100px;
     padding: 10px;
 }
