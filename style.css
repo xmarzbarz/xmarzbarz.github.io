@@ -8,10 +8,13 @@ h1 {
 }
 
 .assign {
+    width: 20%;
+    box-shadow: 8px 8px black;
     margin: 10px;
     padding: 10px;
     background-color: #1f2e1b;
-    display: flex;
+    display: block;
+    border-radius: 20px;
 }
 
 p {
