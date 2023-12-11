@@ -15,7 +15,6 @@ h1 {
     background-color: #1f2e1b;
     display: block;
     border-radius: 20px;
-    align: center;
 }
 
 p {
@@ -26,7 +25,6 @@ p {
 .assign img {
     padding: 10px; 
     border: 2px solid slategrey;
-    align: center;
 }
 
 a {
