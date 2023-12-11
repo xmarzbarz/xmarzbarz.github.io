@@ -7,6 +7,9 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: white;
+}
 .assign {
     width: 80%;
     box-shadow: 8px 8px black;
