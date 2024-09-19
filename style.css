@@ -8,22 +8,23 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    background-color: #fe4371;
+    text-align: center;
+}
+
 .about {
-      background-color: #fcedc2;
       font-family: Helvetica, Arial, sans-serif;
 }
 
 .skills {
-      background-color: #fcedc2;
       font-family: Helvetica, Arial, sans-serif;
 }
 
 .projects {
-      background-color: #fcedc2;
       font-family: Helvetica, Arial, sans-serif;
 }
 
 .contact {
-      background-color: #fcedc2;
       font-family: Helvetica, Arial, sans-serif;
 }
